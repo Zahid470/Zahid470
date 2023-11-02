@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zahid470
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Jahidul Islam from Bangladesh 
+- 👀 I’m interested in ...coding,Cybersecurity,Ethical Hacking 
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on pen testers, hackers, coders
 - 📫 How to reach me ...mdzahidk80@gmail.com
 
 <!---
