@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahidul Islam from Bangladesh 
-- 👀 I’m interested in ...coding,Cybersecurity,Ethical Hacking 
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Cybersecurity,Ethical Hacking,Bug Bounty 
+- 🌱 Ask me about Cyber security
 - 💞️ I’m looking to collaborate on pen testers, hackers, coders
 - 📫 How to reach me ...mdzahidk80@gmail.com
 
